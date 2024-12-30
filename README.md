@@ -2,7 +2,9 @@
 
 # From Beans to Bits: Fika and the Generative AI Revolution
 
-Acess the pdf, html and markdown files above, or read the html on Github pages here: https://script-repo.github.io/AHAGAI-Book-2-From-Beans-to-Bits-Fika-and-the-Generative-AI-Revolution/
+Acess the pdf, html and markdown files above, or read the html on Github pages here: 
+
+# https://script-repo.github.io/AHAGAI-Book-2-From-Beans-to-Bits-Fika-and-the-Generative-AI-Revolution/
 
 ### **Foreword**
 
